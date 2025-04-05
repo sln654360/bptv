@@ -225,3 +225,6 @@ http://192.168.6.103:35455/itv/3000000010000025380.m3u8?cdn=FifastbLive
 http://192.168.6.103:35455/itv/3000000010000027691.m3u8?cdn=FifastbLive
 #EXTINF:-1,tvg-id="咪咕4k" tvg-name="咪咕4k" tvg-logo="https://epg.v1.mk/logo/咪咕4k.png" group-title="咪咕体育",咪咕视频_8M1080_咪视通-45
 http://192.168.6.103:35455/itv/3000000010000031669.m3u8?cdn=FifastbLive
+
+🎀更新公告,#genre#
+上线了动态接口。建议查看pixman更换！,http://192.168.1.1:35455/gaoma/cctv1.m3u8
